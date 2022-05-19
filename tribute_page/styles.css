@@ -1,0 +1,26 @@
+#main {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin: 10px;
+}
+h1 {
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+#image {
+    max-width: auto;
+    height: auto;
+    display: flex;
+    align-items: center;
+    margin: 50px;
+}
+section {
+    font-size: 20px;
+    color: rebeccapurple;
+}
+#tribute-link {
+    position: absolute;
+    bottom: 5%;
+}
